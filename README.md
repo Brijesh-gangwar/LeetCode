@@ -20,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
