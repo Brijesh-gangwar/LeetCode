@@ -6,25 +6,25 @@ public:
              int i,
              vector<int> temp) {
 
-        // Base case
-        if (i == nums.size()) {
-            ans.push_back(temp);
-            return;
-        }
 
-        // CHANGE: rename loop variable from i to x
-        for (int x : nums) {
+if(i == nums.size()){
+    ans.push_back(temp);
+    return;
+}
 
-            if (!mp[x]) {
+        for(int x : nums) {
+
+            if(!mp[x]) {
 
                 mp[x] = true;
                 temp.push_back(x);
 
-                // CHANGE: increase recursion depth
+
+
                 fxn(ans, nums, mp, i + 1, temp);
 
-                temp.pop_back();
                 mp[x] = false;
+                temp.pop_back();
             }
         }
     }
@@ -36,8 +36,8 @@ public:
 
         unordered_map<int, bool> mp;
 
-        for (int x : nums)
-            mp[x] = false;
+        for(int i : nums)
+            mp[i] = false;
 
         fxn(ans, nums, mp, 0, temp);
 
