@@ -40,6 +40,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0078-subsets) |
 | [1331-rank-transform-of-an-array](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
