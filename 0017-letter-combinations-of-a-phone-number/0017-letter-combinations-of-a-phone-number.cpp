@@ -13,15 +13,9 @@ public:
 
     void fxn(string &digits, vector<string> &ans,
              unordered_map<char, vector<char>> &mp, int i, string str) {
-        if (i > digits.size()){
-
+        if (i == digits.size()){
+ans.push_back(str);
              return;
-        }
-           
-
-        if (str.size() == digits.size()) {
-            ans.push_back(str);
-            return;
         }
 
         vector<char> arr = mp[digits[i]];
