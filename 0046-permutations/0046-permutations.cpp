@@ -1,46 +1,28 @@
 class Solution {
 public:
-    void fxn(vector<vector<int>> &ans,
-             vector<int> nums,
-             unordered_map<int, bool> &mp,
-             int i,
-             vector<int> temp) {
-
-
-if(i == nums.size()){
-    ans.push_back(temp);
-    return;
-}
-
-        for(int x : nums) {
-
-            if(!mp[x]) {
-
-                mp[x] = true;
-                temp.push_back(x);
-
-
-
-                fxn(ans, nums, mp, i + 1, temp);
-
-                mp[x] = false;
-                temp.pop_back();
-            }
+    void fxn( vector<int> &nums ,vector<vector<int>> &ans , int index){
+        if(index >= nums.size()){
+            ans.push_back(nums);
+            return;
         }
+
+        for(int i = index ; i < nums.size();i++){
+            swap(nums[i] , nums[index]);
+
+            fxn(nums , ans , index+1);
+
+            swap(nums[i] , nums[index]);
+
+        }
+
     }
-
     vector<vector<int>> permute(vector<int>& nums) {
+         vector<vector<int>> ans;
 
-        vector<vector<int>> ans;
-        vector<int> temp;
+         vector<int> temp;
 
-        unordered_map<int, bool> mp;
+         fxn(nums, ans , 0);
 
-        for(int i : nums)
-            mp[i] = false;
-
-        fxn(ans, nums, mp, 0, temp);
-
-        return ans;
+         return ans;
     }
 };
