@@ -1,29 +1,36 @@
 class Solution {
 public:
     string smallestSubsequence(string s) {
-        int freq[27] = {0};
-        bitset<27> seen;
-        string stack;
 
-        for (auto& c : s)
-            freq[c & 31]++;
+        vector<int> freq(26, 0);
+        vector<int> vis(26, 0);
 
-        for (auto& c : s) {
-            int x = c & 31;
-            freq[x]--;
-
-            if (seen.test(x))
-                continue;
-
-            while (stack.length() && stack.back() > c && freq[stack.back() & 31]) {
-                seen.reset(stack.back() & 31);
-                stack.pop_back();
-            }
-
-            stack.push_back(c);
-            seen.set(x);
+        for (int i = 0; i < s.size(); i++) {
+            freq[s[i] - 'a']++;
         }
 
-        return stack;
+        string ans = "";
+
+        for (int i = 0; i < s.size(); i++) {
+
+            freq[s[i] - 'a']--;
+
+            if (vis[s[i] - 'a']) {
+                continue;
+            }
+
+            while (!ans.empty() &&
+                   ans.back() > s[i] &&
+                   freq[ans.back() - 'a'] > 0) {
+
+                vis[ans.back() - 'a'] = 0;
+                ans.pop_back();
+            }
+
+            ans += s[i];
+            vis[s[i] - 'a'] = 1;
+        }
+
+        return ans;
     }
 };
