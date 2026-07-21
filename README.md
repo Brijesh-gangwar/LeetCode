@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
 |  |
@@ -45,6 +46,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0078-subsets) |
+| [0746-min-cost-climbing-stairs](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1260-shift-2d-grid](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
