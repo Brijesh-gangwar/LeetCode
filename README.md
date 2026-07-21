@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Two Pointers
 |  |
 | ------- |
