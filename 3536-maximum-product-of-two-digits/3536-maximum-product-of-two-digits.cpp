@@ -1,22 +1,23 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        int largest = -1;
-        int secondLargest = -1;
 
-        while (n > 0) {
-            int digit = n % 10;
+        string s = to_string(n);
 
-            if (digit > largest) {
-                secondLargest = largest;
-                largest = digit;
-            } else if (digit > secondLargest) {
-                secondLargest = digit;
+        int largest = -1;;
+        int secondlargest = -1;
+
+        for(char i : s){
+            int dig = i - '0';
+
+            if(dig > largest){
+                secondlargest = largest ;
+                largest = dig;
+            }else if( dig > secondlargest){
+                secondlargest = dig;   
             }
-
-            n /= 10;
         }
 
-        return largest * secondLargest;
+        return largest * secondlargest;
     }
 };
