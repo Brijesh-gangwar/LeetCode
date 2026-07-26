@@ -1,9 +1,8 @@
 class Solution {
 public:
     int maximumProduct(vector<int>& nums) {
-        // int n = nums.size();
 
-        int smallest1 =INT_MAX;
+        int smallest1 = INT_MAX;
         int smallest2 = INT_MAX;
         int smallest3 = INT_MAX;
 
@@ -39,11 +38,11 @@ public:
         }
 
 
-        if(largest1 < 0) return largest1 * largest2 * largest3;
+        // if(largest1 < 0) return largest1 * largest2 * largest3;
 
-        if((smallest1 * smallest2) > (largest2 * largest3))
-            return smallest1 * smallest2 * largest1;
+        // if((smallest1 * smallest2) > (largest2 * largest3))
+        //     return smallest1 * smallest2 * largest1;
 
-        return largest1 * largest2 * largest3;
+        return max(largest1 * largest2 * largest3 ,smallest1 * smallest2 * largest1) ;
     }
 };
