@@ -1,8 +1,6 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int maxval = INT_MIN;
-
         int largest = INT_MIN, secondLargest = INT_MIN;
         int smallest = INT_MAX, secondSmallest = INT_MAX;
 
@@ -24,8 +22,6 @@ public:
             }
         }
 
-         int small = (secondSmallest-1) * (smallest-1);
-        int large = (largest-1) * (secondLargest -1 );
-        return max(small , large);
+        return max((secondSmallest-1) * (smallest-1) , (largest-1) * (secondLargest -1 ));
     }
 };
