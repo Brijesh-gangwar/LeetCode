@@ -22,9 +22,8 @@ public:
             }
             int half = arr[i] / 2;
 
-            while (half > 0) {
+            while (half--) {
                 ans.push_back('a' + i);
-                half--;
             }
         }
 
@@ -32,14 +31,12 @@ public:
         if (odd != -1)
             ans.push_back('a' + odd);
 
-        // adding second half of string in reverse order to ensure it is
-        // palindrome
+        // adding second half of string in reverse order to ensure it is palindrome
         for (int i = 25; i >= 0; i--) {
             int half = arr[i] / 2;
 
-            while (half > 0) {
+            while (half--) {
                 ans.push_back('a' + i);
-                half--;
             }
         }
 
