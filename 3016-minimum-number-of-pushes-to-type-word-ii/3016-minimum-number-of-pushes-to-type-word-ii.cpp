@@ -1,22 +1,13 @@
 class Solution {
 public:
-
-    static bool comparator(const pair<char, int>& a, const pair<char, int>& b) {
-        return a.second > b.second;
-    }
-
     int minimumPushes(string word) {
 
-        unordered_map<char, int> mp;
-        for (char ch : word)
-            mp[ch]++;
+        vector<pair<char , int>> freq(26);
 
-        vector<pair<char, int>> freq;
+        for(char ch : word){
+            freq[ch - 'a'].second++;
+        }
 
-        for (auto it : mp)
-            freq.push_back(it);
-
-        // sort(freq.begin(), freq.end(), comparator);
         sort(freq.begin(), freq.end(), [](auto &a , auto &b){
             return a.second > b.second;
         });
