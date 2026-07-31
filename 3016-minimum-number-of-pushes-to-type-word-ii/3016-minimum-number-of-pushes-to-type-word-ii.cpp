@@ -2,25 +2,26 @@ class Solution {
 public:
     int minimumPushes(string word) {
 
-        vector<pair<char , int>> freq(26);
+        vector<int> freq(26,0);
 
         for(char ch : word){
-            freq[ch - 'a'].second++;
+            freq[ch - 'a']++;
         }
 
-        sort(freq.begin(), freq.end(), [](auto &a , auto &b){
-            return a.second > b.second;
-        });
+        sort(freq.begin(), freq.end() , greater<int>());
 
         int weight = 1;
         int count = 0;
         int ans = 0;
 
-        for (auto it : freq) {
+        for (int it : freq) {
+            
+            if(it == 0) break;
+
             if (count != 0 && count % 8 == 0)
                 weight++;
 
-            ans += it.second * weight;
+            ans += it * weight;
             count++;
         }
 
