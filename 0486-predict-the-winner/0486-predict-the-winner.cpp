@@ -50,9 +50,9 @@ public:
         // dp base case
         if(dp[i][j] != -1) return dp[i][j];
 
-        int ith = nums[i] - rec(nums, i + 1, j);
+        int ith = nums[i] - recMem(nums, i + 1, j,dp);
 
-        int jth = nums[j] - rec(nums, i, j - 1);
+        int jth = nums[j] - recMem(nums, i, j - 1,dp);
 
         dp[i][j] = max(ith, jth);
 
