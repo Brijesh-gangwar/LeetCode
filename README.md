@@ -22,6 +22,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
@@ -46,11 +48,13 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0078-subsets) |
+| [0486-predict-the-winner](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1260-shift-2d-grid](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -175,4 +179,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
