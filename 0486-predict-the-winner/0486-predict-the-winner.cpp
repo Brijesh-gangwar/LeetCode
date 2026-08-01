@@ -60,26 +60,52 @@ public:
     //     return dp[i][j];
     // }
 
-    int tab(vector<int>& nums, vector<vector<int>>& dp) {
-        // base case
+    // int tab(vector<int>& nums, vector<vector<int>>& dp) {
+    //     // base case
+    //     int n = nums.size();
+    //     for (int i = 0; i < n; i++) {
+    //         dp[i][i] = nums[i];
+    //     }
+
+    //     for (int i = n - 1; i >= 0; i--) {
+    //         for(int j = i + 1 ; j < n;j++){
+
+    //             int ith = nums[i] - dp[i + 1][j];
+
+    //             int jth = nums[j] - dp[i][j-1];
+
+    //             dp[i][j] = max(ith, jth);
+    //         }
+    //     }
+
+    //     return dp[0][n-1];
+    // }
+
+    int tabspace(vector<int>& nums) {
         int n = nums.size();
-        for (int i = 0; i < n; i++) {
-            dp[i][i] = nums[i];
-        }
+        vector<int> next(n,0);
 
         for (int i = n - 1; i >= 0; i--) {
+            vector<int> cur(n,0);
+
+            // base case
+            cur[i] = nums[i];
+
+            int maxval =0;
+
             for(int j = i + 1 ; j < n;j++){
 
-                int ith = nums[i] - dp[i + 1][j];
+                int ith = nums[i] - next[j];
 
-                int jth = nums[j] - dp[i][j-1];
+                int jth = nums[j] - cur[j-1];
 
-                dp[i][j] = max(ith, jth);
-
+                cur[j] = max(ith, jth);
             }
+
+            next = cur;
         }
 
-        return dp[0][n-1];
+        return next[n-1];
     }
 
     bool predictTheWinner(vector<int>& nums) {
@@ -87,11 +113,12 @@ public:
         if (n == 1)
             return true;
 
-        vector<vector<int>> dp(n, vector<int>(n, -1));
+        // vector<vector<int>> dp(n, vector<int>(n, -1));
 
         // int dif = recMem(nums, 0, nums.size() - 1 ,dp);
         // int dif = recMem(nums, dp);
-        int dif = tab(nums, dp);
+        // int dif = tab(nums, dp);
+        int dif = tabspace(nums);
 
         if (dif >= 0)
             return true;
