@@ -42,11 +42,12 @@ public:
 
         return max(ith, jth);
     }
+
     int recMem(vector<int>& nums, int i, int j, vector<vector<int>>&dp) {
         // base case
-        if (i > j)
-            return 0;
-
+        if (i == j)
+            return nums[i];
+            
         // dp base case
         if(dp[i][j] != -1) return dp[i][j];
 
