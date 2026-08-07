@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0354-russian-doll-envelopes](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0877-stone-game) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0078-subsets) |
+| [0354-russian-doll-envelopes](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -91,6 +93,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0354-russian-doll-envelopes](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -148,6 +151,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0354-russian-doll-envelopes](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
@@ -217,4 +221,8 @@
 |  |
 | ------- |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
