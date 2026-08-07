@@ -49,6 +49,7 @@
 | [0877-stone-game](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0877-stone-game) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1406-stone-game-iii](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1406-stone-game-iii) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
 |  |
@@ -74,6 +75,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -97,6 +99,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
