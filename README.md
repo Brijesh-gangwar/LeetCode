@@ -50,6 +50,7 @@
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1406-stone-game-iii](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1406-stone-game-iii) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
 |  |
@@ -138,6 +139,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -145,6 +147,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -182,6 +185,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Monotonic Stack
 |  |
 | ------- |
