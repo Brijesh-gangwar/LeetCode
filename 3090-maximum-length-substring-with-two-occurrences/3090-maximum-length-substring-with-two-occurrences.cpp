@@ -14,20 +14,13 @@ public:
 
             freq[i]++;
 
-            if(freq[i] <= 2){
-                ans = max(ans  , high - low + 1 );
-                
-            }
-            else{
-
-                while(freq[i] > 2){
-                    int l = s[low]-'a';
-                    freq[l]--;
-                    low++;
-                }
-        
+            while (freq[i] > 2) {
+                int l = s[low] - 'a';
+                freq[l]--;
+                low++;
             }
 
+            ans = max(ans, high - low + 1);
             high++;
         }
 
