@@ -7,26 +7,27 @@ public:
         int low = 0;
         int high = 0;
 
-        unordered_map<char,int> mp;
+        int freq[26] = {};
 
         while (high < n) {
-            char ch = s[high];
+            int i = s[high] - 'a';
 
-            mp[ch]++;
+            freq[i]++;
 
-            if(mp[ch] <= 2){
+            if(freq[i] <= 2){
                 ans = max(ans  , high - low + 1 );
                 
             }
             else{
 
-                while(mp[ch] > 2){
-                    char lowchar = s[low];
-                    mp[lowchar]--;
+                while(freq[i] > 2){
+                    int l = s[low]-'a';
+                    freq[l]--;
                     low++;
                 }
         
             }
+
             high++;
         }
 
