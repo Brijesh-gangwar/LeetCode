@@ -1,17 +1,16 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        unordered_map<int , bool> mp;
+        vector<bool> present(101, false);
 
-        for(int i : nums)
-            mp[i] = true;
-        
-        int i = 1;
-        while(i){
-            int n = k * i;
-            if(!mp[n])
-                return n;
-            i++;
+        for (int num : nums) {
+            present[num] = true;
+        }
+
+        for (int multiple = k; ; multiple += k) {
+            if (multiple > 100 || !present[multiple]) {
+                return multiple;
+            }
         }
         return -1;
     }
