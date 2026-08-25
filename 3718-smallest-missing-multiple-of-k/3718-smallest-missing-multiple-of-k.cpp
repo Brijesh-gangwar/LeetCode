@@ -1,17 +1,25 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        vector<bool> present(101, false);
+        uint64_t x[2] = {0, 0};
 
-        for (int num : nums) {
-            present[num] = true;
-        }
-
-        for (int multiple = k; ; multiple += k) {
-            if (multiple > 100 || !present[multiple]) {
-                return multiple;
+        for (auto& n : nums) {
+            if (n % k == 0) {
+                int i = n / k - 1;
+                if (i < 64)
+                    x[0] |= 1ULL << i;
+                else
+                    x[1] |= 1ULL << (i - 64);
             }
         }
-        return -1;
+
+        int mult;
+        if (x[0] != -1ULL) {
+            mult = bit_width(++x[0] & -x[0]);
+        } else {
+            mult = 64 + bit_width(++x[1] & -x[1]);
+        }
+
+        return mult * k;
     }
 };
