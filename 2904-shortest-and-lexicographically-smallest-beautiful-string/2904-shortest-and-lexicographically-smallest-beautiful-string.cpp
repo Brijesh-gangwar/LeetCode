@@ -1,8 +1,6 @@
 class Solution {
 public:
     string shortestBeautifulSubstring(string s, int k) {
-        // take i and j
-        // variable length sliding window
         string ans = "";
 
         int n = s.size();
