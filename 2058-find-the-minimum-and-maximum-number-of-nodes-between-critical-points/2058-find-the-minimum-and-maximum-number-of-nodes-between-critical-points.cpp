@@ -13,14 +13,12 @@ public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
         vector<int> critical_idx;
         ListNode* cur = head;
-        ListNode* prev = nullptr;
-        // loop whole list
+        ListNode* prev = nullptr;       
         int index = 0;
     
         while(cur){
             ListNode* next = cur->next;
             if(prev != nullptr && next != nullptr){
-                // local maxima , minima
                 if(prev->val < cur->val && cur->val > next->val || prev->val > cur->val && cur->val < next->val){
                     critical_idx.push_back(index);
                 }
@@ -31,11 +29,9 @@ public:
             index++;
         }
 
-        // if arr size < 2 -> return {-1,-1}
         int n = critical_idx.size();
         if(n < 2) return {-1 , -1 };
-        // min = min dif index btw indexes
-        // max = last - first
+
         int minval = INT_MAX;
         for(int i = 0; i < n-1 ; i++){
             minval = min(minval , critical_idx[i+1] -  critical_idx[i]);
