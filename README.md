@@ -72,6 +72,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0217-contains-duplicate) |
@@ -108,6 +109,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
