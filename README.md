@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0354-russian-doll-envelopes](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -75,6 +76,7 @@
 | [0001-two-sum](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0354-russian-doll-envelopes](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0486-predict-the-winner) |
