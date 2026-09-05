@@ -91,6 +91,7 @@
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1872-stone-game-viii](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Brijesh-gangwar/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2029-stone-game-ix](https://github.com/Brijesh-gangwar/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Brijesh-gangwar/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Brijesh-gangwar/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
