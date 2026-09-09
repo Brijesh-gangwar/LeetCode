@@ -82,6 +82,7 @@
 | [0053-maximum-subarray](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0354-russian-doll-envelopes](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0354-russian-doll-envelopes) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0136-single-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
