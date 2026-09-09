@@ -27,6 +27,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0877-stone-game) |
@@ -85,6 +86,7 @@
 | [0136-single-number](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -125,6 +127,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Brijesh-gangwar/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Brijesh-gangwar/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -142,6 +145,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -165,6 +169,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0268-missing-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
@@ -217,6 +222,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
