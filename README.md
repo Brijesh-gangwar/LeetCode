@@ -50,6 +50,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0217-contains-duplicate) |
@@ -320,4 +322,8 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Brijesh-gangwar/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
