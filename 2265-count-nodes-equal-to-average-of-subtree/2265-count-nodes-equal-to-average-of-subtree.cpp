@@ -13,35 +13,25 @@
 class Solution {
 public:
     int result = 0;
-
-    int findsum(TreeNode* root, int& count) {
+    pair<int,int> solve(TreeNode* root) {
         if (root == nullptr)
-            return 0;
+            return {0,0};
 
-        count++;
+        auto left = solve(root->left);
+        auto right = solve(root->right);
 
-        int left = findsum(root->left, count);
-        int right = findsum(root->right, count);
+        int totalsum = root->val + left.first + right.first;
+        int totalcount = left.second + right.second + 1;
+        
+        if((totalsum/totalcount) == root->val)
+            result += 1;
 
-        return root->val + left + right;
-    }
+        return {totalsum , totalcount};
 
-    void solve(TreeNode* root) {
-        if (root == nullptr)
-            return;
-
-        int count = 0;
-        int sum = findsum(root, count);
-
-        if (root->val == sum / count)
-            result++;
-
-        solve(root->left);
-        solve(root->right);
     }
 
     int averageOfSubtree(TreeNode* root) {
-        solve(root);
+       auto ans = solve(root);
         return result;
     }
 };
