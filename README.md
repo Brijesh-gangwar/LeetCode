@@ -4,6 +4,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Brijesh-gangwar/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Brijesh-gangwar/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -336,4 +337,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0053-maximum-subarray) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Brijesh-gangwar/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Brijesh-gangwar/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
