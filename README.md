@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0078-subsets) |
@@ -224,6 +225,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0704-binary-search](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0704-binary-search) |
