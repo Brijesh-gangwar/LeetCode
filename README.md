@@ -91,6 +91,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0877-stone-game) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -225,6 +226,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0704-binary-search](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0704-binary-search) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Brijesh-gangwar/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
