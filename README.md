@@ -205,6 +205,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -267,6 +268,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Brijesh-gangwar/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -375,4 +377,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
