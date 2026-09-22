@@ -77,6 +77,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0486-predict-the-winner) |
@@ -348,6 +349,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Brijesh-gangwar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Brijesh-gangwar/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Divide and Conquer
