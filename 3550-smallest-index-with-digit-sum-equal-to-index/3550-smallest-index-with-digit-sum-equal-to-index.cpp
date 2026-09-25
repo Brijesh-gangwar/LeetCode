@@ -16,8 +16,7 @@ public:
                 return i;
             }else if(nums[i] < 10 && nums[i] != i) continue;
             else {
-                int sum = digsum(nums[i]);
-                if(sum == i) return i;
+                if(digsum(nums[i]) == i) return i;
             }
         }
         return -1;
